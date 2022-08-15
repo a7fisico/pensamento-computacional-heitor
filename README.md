@@ -1,1 +1,1 @@
-# pensamento_computacional_heitor_2022
+# pensamento-computacional-heitor
